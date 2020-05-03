@@ -1,0 +1,11 @@
+c:\Users\Lena Gerber\Documents\GitHub\SoftwaredesignWS\Aufgaben\Buchstabendreher\bin\Debug\netcoreapp3.0\Buchstabendreher.exe
+C:\Users\Lena Gerber\Documents\GitHub\SoftwaredesignWS\Aufgaben\Buchstabendreher\bin\Debug\netcoreapp3.0\Buchstabendreher.deps.json
+C:\Users\Lena Gerber\Documents\GitHub\SoftwaredesignWS\Aufgaben\Buchstabendreher\bin\Debug\netcoreapp3.0\Buchstabendreher.runtimeconfig.json
+C:\Users\Lena Gerber\Documents\GitHub\SoftwaredesignWS\Aufgaben\Buchstabendreher\bin\Debug\netcoreapp3.0\Buchstabendreher.runtimeconfig.dev.json
+c:\Users\Lena Gerber\Documents\GitHub\SoftwaredesignWS\Aufgaben\Buchstabendreher\bin\Debug\netcoreapp3.0\Buchstabendreher.dll
+c:\Users\Lena Gerber\Documents\GitHub\SoftwaredesignWS\Aufgaben\Buchstabendreher\bin\Debug\netcoreapp3.0\Buchstabendreher.pdb
+c:\Users\Lena Gerber\Documents\GitHub\SoftwaredesignWS\Aufgaben\Buchstabendreher\obj\Debug\netcoreapp3.0\Buchstabendreher.csprojAssemblyReference.cache
+c:\Users\Lena Gerber\Documents\GitHub\SoftwaredesignWS\Aufgaben\Buchstabendreher\obj\Debug\netcoreapp3.0\Buchstabendreher.AssemblyInfoInputs.cache
+c:\Users\Lena Gerber\Documents\GitHub\SoftwaredesignWS\Aufgaben\Buchstabendreher\obj\Debug\netcoreapp3.0\Buchstabendreher.AssemblyInfo.cs
+c:\Users\Lena Gerber\Documents\GitHub\SoftwaredesignWS\Aufgaben\Buchstabendreher\obj\Debug\netcoreapp3.0\Buchstabendreher.dll
+c:\Users\Lena Gerber\Documents\GitHub\SoftwaredesignWS\Aufgaben\Buchstabendreher\obj\Debug\netcoreapp3.0\Buchstabendreher.pdb
