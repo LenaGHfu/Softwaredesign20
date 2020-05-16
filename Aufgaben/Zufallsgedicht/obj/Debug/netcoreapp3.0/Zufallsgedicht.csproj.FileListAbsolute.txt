@@ -1,0 +1,11 @@
+C:\Users\Lena Gerber\Documents\GitHub\Softwaredesign20\Aufgaben\Zufallsgedicht\bin\Debug\netcoreapp3.0\Zufallsgedicht.exe
+C:\Users\Lena Gerber\Documents\GitHub\Softwaredesign20\Aufgaben\Zufallsgedicht\bin\Debug\netcoreapp3.0\Zufallsgedicht.deps.json
+C:\Users\Lena Gerber\Documents\GitHub\Softwaredesign20\Aufgaben\Zufallsgedicht\bin\Debug\netcoreapp3.0\Zufallsgedicht.runtimeconfig.json
+C:\Users\Lena Gerber\Documents\GitHub\Softwaredesign20\Aufgaben\Zufallsgedicht\bin\Debug\netcoreapp3.0\Zufallsgedicht.runtimeconfig.dev.json
+C:\Users\Lena Gerber\Documents\GitHub\Softwaredesign20\Aufgaben\Zufallsgedicht\bin\Debug\netcoreapp3.0\Zufallsgedicht.dll
+C:\Users\Lena Gerber\Documents\GitHub\Softwaredesign20\Aufgaben\Zufallsgedicht\bin\Debug\netcoreapp3.0\Zufallsgedicht.pdb
+C:\Users\Lena Gerber\Documents\GitHub\Softwaredesign20\Aufgaben\Zufallsgedicht\obj\Debug\netcoreapp3.0\Zufallsgedicht.csprojAssemblyReference.cache
+C:\Users\Lena Gerber\Documents\GitHub\Softwaredesign20\Aufgaben\Zufallsgedicht\obj\Debug\netcoreapp3.0\Zufallsgedicht.AssemblyInfoInputs.cache
+C:\Users\Lena Gerber\Documents\GitHub\Softwaredesign20\Aufgaben\Zufallsgedicht\obj\Debug\netcoreapp3.0\Zufallsgedicht.AssemblyInfo.cs
+C:\Users\Lena Gerber\Documents\GitHub\Softwaredesign20\Aufgaben\Zufallsgedicht\obj\Debug\netcoreapp3.0\Zufallsgedicht.dll
+C:\Users\Lena Gerber\Documents\GitHub\Softwaredesign20\Aufgaben\Zufallsgedicht\obj\Debug\netcoreapp3.0\Zufallsgedicht.pdb
